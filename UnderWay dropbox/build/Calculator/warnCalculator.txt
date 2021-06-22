@@ -1,0 +1,17 @@
+missing module named resource - imported by posix, U:\calculadora.py
+missing module named posix - imported by os, U:\calculadora.py
+missing module named _posixsubprocess - imported by subprocess, U:\calculadora.py
+missing module named org - imported by pickle, U:\calculadora.py
+missing module named readline - imported by cmd, code, pdb, U:\calculadora.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, U:\calculadora.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, U:\calculadora.py
+missing module named _winreg - imported by platform, U:\calculadora.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, U:\calculadora.py
+missing module named 'java.lang' - imported by platform, U:\calculadora.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, U:\calculadora.py
+missing module named termios - imported by tty, U:\calculadora.py, getpass
+missing module named grp - imported by shutil, tarfile, U:\calculadora.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, U:\calculadora.py, netrc, getpass
+missing module named _dummy_threading - imported by dummy_threading, U:\calculadora.py
+missing module named 'org.python' - imported by copy, U:\calculadora.py, xml.sax

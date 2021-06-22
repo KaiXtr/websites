@@ -1,0 +1,40 @@
+<html>
+	<head>
+		<title>Kai Xtr</title>
+
+		<style type="text/css">
+			body {
+				background-colour: #d2b448c;
+				margin-left: 20%;
+				margin-right: 20%;
+				border: 2px dotted gray;
+				padding: 40px 40px 40px 40px;
+				font-family: cursive;
+			}
+		</style>
+	</head>
+	
+	<body>
+
+		<center>
+		<h1>Coisinhas Legais e Nada Demais!=)</h1>
+
+		<a href="kaixtr.deviantart.com"><img src="ME.png"></a>
+		
+		<p>
+		nonononononononononononononononononono<br>
+		nonononononononononononononononononono<br>
+		nonononononononononononononononononono<br>
+		nonononononononononononononononononono<br>
+		nonononononononononononononononononono<br>
+		nonononononononononononononononononono<br>
+		nonononononononononononononononononono<br>
+		nonononononononononononononononononono<br>
+		</p>
+
+		<a href="index.html">clique aqui para ver o site</a>
+		</center>
+
+
+	</body>
+</html>

@@ -1,0 +1,17 @@
+body{
+	background-image:url("Imagens/Postagens/subway.png");
+	background-size:cover;
+	font-family:sans-serif;
+}
+
+div{
+	position:absolute;
+	top:30%;
+	left:40%;
+	color:#FFEAA5;
+	text-align:center;
+}
+
+form{text-align:left;}
+
+form span{font-size:15px;}
